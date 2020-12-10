@@ -18,9 +18,14 @@ and each input size n can be output to the console when the program finishes exe
 
 The performance of the algorithms based on the console output was analysed and included in the file Benchmarking.docx
 
-To compile the application: javac ie/gmit/dip/*.java
+To execute:
 
-To run the application: java ie.gmit.dip.Main
+  If an IDE is used navigate to the Main and run as a java applicaton
+  If from commandline do the following:
+    
+    To compile the application:  Navigate to src folder from command line; then type and enter the following- javac ie/gmit/dip/*.java
+    
+    To run the application: after compiling type and enter java ie.gmit.dip.Main
 
 The application is a sole work of Sunoj Jose for the module: Computational Thinking With Algorithms, of HDip in Science in Software Development.
 For writing the codes of Sorting Algorithms the following sources were refered:
