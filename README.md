@@ -20,7 +20,7 @@ The performance of the algorithms based on the console output was analysed and i
 
 To execute:
 
-  If an IDE is used navigate to the Main and run as a java applicaton
+  If an IDE is used navigate to the Main and run as a java applicaton.
   If from commandline do the following:
     
     To compile the application:  Navigate to src folder from command line; then type and enter the following- javac ie/gmit/dip/*.java
