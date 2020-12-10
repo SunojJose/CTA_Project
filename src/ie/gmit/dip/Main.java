@@ -75,7 +75,7 @@ public class Main {
 		
 		Util util = new Util();
 		util.test(sizes, runs, sort);
-        System.out.println();
+        	System.out.println();
 		
 	}
 }
